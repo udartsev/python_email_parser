@@ -1,3 +1,5 @@
+![Python Email Parser](./repository-image.png)
+
 # Парсер писем
 
 ### 1. Открываем доступ по IMAP к почтовому ящику:
