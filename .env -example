@@ -1,0 +1,5 @@
+EMAIL_USER=<USERNAME>@gmail.com
+PASSWORD=<PASSWORD>
+RECIEVED_FROM_EMAIL=helloworld@test.com
+IMAP_URL=imap.gmail.com
+FILENAME=codes.csv
